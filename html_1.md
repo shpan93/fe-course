@@ -15,3 +15,6 @@ https://medium.com/bootcamped/from-zero-to-hero-w-html-css-javascript-8d84eea724
 
 # Acceptance criteria
 Пройденные курсы по html/css на codecademy.
+
+# Design
+https://app.avocode.com/revisions/42746451/?design=26724481
